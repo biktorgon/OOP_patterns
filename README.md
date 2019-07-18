@@ -18,3 +18,5 @@
 ### structural
 #### adapter
 #### decorator
+#### proxy
+#### composite
