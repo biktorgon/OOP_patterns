@@ -1,17 +1,20 @@
 # Patterns navigation
 
-## behavioral
-### action
-### chain_of_responsibility
-### iterator
-### observer
-### strategy
-### visitor
 
-## creational
-### prototype
-### singleton
+### behavioral
+#### action
+#### chain_of_responsibility
+#### iterator
+#### observer
+#### strategy
+#### visitor
 
-## structural
-### adapter
-### decorator
+
+### creational
+#### prototype
+#### singleton
+
+
+### structural
+#### adapter
+#### decorator
