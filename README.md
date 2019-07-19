@@ -3,7 +3,7 @@
 
 #### behavioral
 * action
-* chain_of_responsibility
+* chain of responsibility
 * iterator
 * observer
 * strategy
@@ -14,6 +14,7 @@
 * prototype
 * singleton
 * abstract factory
+* factory method
 
 
 #### structural
