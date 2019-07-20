@@ -15,6 +15,7 @@
 * singleton
 * abstract factory
 * factory method
+* builder
 
 
 #### structural
